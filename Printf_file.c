@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("we are on the branch");
+    printf("we are on the master ");
     return 0;
 }
